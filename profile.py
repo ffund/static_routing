@@ -5,7 +5,11 @@ In this experiment, you will observe how routing principles apply when packets a
 
 It should take about 60-120 minutes to run this experiment.
 
-Lab instructions: [Static routing](https://ffund.github.io/tcp-ip-essentials/lab-static-basic/).
+Lab instructions:
+
+- [Reserve resources on CloudLab](https://ffund.github.io/tcp-ip-essentials/lab-static-basic/reserve-cloudlab)
+- [IP addresses and subnet masks](https://ffund.github.io/tcp-ip-essentials/lab-static-basic/routing-subnet)
+- [Static routing between networks](https://ffund.github.io/tcp-ip-essentials/lab-static-basic/routing-between)
 """
 
 # Import the Portal object.
