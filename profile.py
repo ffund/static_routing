@@ -4,6 +4,8 @@
 In this experiment, you will observe how routing principles apply when packets are forwarded by a router from one network segment to the next.
 
 It should take about 60-120 minutes to run this experiment.
+
+Lab instructions: [Static routing](https://ffund.github.io/tcp-ip-essentials/lab-static-basic/).
 """
 
 # Import the Portal object.
